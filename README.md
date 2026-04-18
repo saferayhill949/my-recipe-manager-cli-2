@@ -1,2 +1,9 @@
-# my-recipe-manager-cli-2
-A simple recipe manager project
+# Recipe Manager
+
+A simple recipe manager project.
+\n
+## Getting Started
+
+```bash
+python recipe.py
+```
